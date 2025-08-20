@@ -25,8 +25,9 @@
 ---
 
 ## 📌 Projects
-- **🚗 Koomek Backend API**  
+- **🚗 Koomek Backend API (4th best startup in Elecomp 2024)**  
   Designed and implemented the backend for **Koomek**, a mobile app that helps users find trusted mechanics, book services, share reviews, and pay online.
+  Koomek was recognized as the 4th best startup in Elecomp 2024
     - Data layer with GORM
     - Background job processing with **Asynq** (monitored via Asynqmon)
     - Logging and monitoring with Jaeger, Sentry, Prometheus, Grafana
