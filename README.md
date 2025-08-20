@@ -1,4 +1,4 @@
-![Banner](./assets/banner.png)
+[//]: # (![Banner]&#40;./assets/banner.png&#41;)
 
 # 👋 Hi there! I'm Mohammad HosseinZadeh
 
