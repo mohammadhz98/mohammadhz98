@@ -15,15 +15,17 @@
 - **Frameworks:** Echo
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **DevOps / Infrastructure:** Docker, Kubernetes, MinIO
+- **CI/CD:** GitHub Actions, GitLab Runner (workflow scripting)
 - **Observability & Monitoring:** Jaeger, Prometheus, Grafana, Sentry, Asynqmon
 - **Task Queues & Background Jobs:** Asynq
 - **Load Testing:** Locust
 - **Tools:** Postman, Git
-
+- **UI / Desktop:** Fyne (Golang)
+- **Web Crawling:** Goquery, Selenium, BeautifulSoup4
 ---
 
 ## 📌 Projects
-- **📡 Koomek Backend API**  
+- **🚗 Koomek Backend API**  
   Designed and implemented the backend for **Koomek**, a mobile app that helps users find trusted mechanics, book services, share reviews, and pay online.
     - Data layer with GORM
     - Background job processing with **Asynq** (monitored via Asynqmon)
@@ -34,7 +36,23 @@
     - [Koomek Website](https://koomek.com/)
 
 
-- **🔍 Security Vulnerability Crawler**  
+- **🛢️ Oil & Gas Industry Startup (In Progress)**  
+  Currently developing a localized solution for the oil & gas industry, inspired by global products restricted due to sanctions.
+    - Backend implemented in **Golang**
+    - Includes a **Windows desktop client** built with **Fyne**
+    - CI/CD pipelines with **GitHub Actions** and **GitLab Runner** for deployment
+    - 🚀 Still under active development as a startup project
+
+
+- **💰 Gold Trading Platform (In Progress)**  
+  A startup project for the jewelry industry, identified through field research with local gold sellers.
+    - Version 1 launched as a dedicated solution for a single jeweler
+    - Version 2 currently being developed as a scalable product for the wider market
+    - Backend implemented with **Golang**, APIs optimized for performance and reliability
+    - 🚀 Still in progress, owned and developed as a startup venture
+
+
+- **🕵️ Security Vulnerability Crawler**  
   Developed a crawler that monitored a public repository of newly disclosed security vulnerabilities in real time.
     - Fetched vulnerability data using Goquery
     - Stored results in **MongoDB**
@@ -44,7 +62,7 @@
         - Sent real-time notifications via the website when a relevant vulnerability was detected
 
 
-- **🐍 Python Crawlers (Earlier Work)**  
+- **🐍 Python Crawlers**  
   Built multiple crawlers using **Selenium** and **BeautifulSoup4**, focusing on data extraction and automation tasks.
 
 ---
