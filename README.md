@@ -7,7 +7,6 @@
 - Experienced in designing clean, efficient APIs and building security crawlers
 - Passionate about performance, monitoring, and clean architectures
 - Always curious and eager to learn, grow, and share knowledge 🚀
-
 ---
 
 ## 🔧 Skills & Technologies
@@ -65,14 +64,16 @@
 
 - **🐍 Python Crawlers**  
   Built multiple crawlers using **Selenium** and **BeautifulSoup4**, focusing on data extraction and automation tasks.
-
 ---
 
 ## 🌍 Open Source Contributions
-- Contributed to [EchoX](https://github.com/labstack/echox) (an extension of the popular Echo framework for Golang)
-    - Submitted multiple PRs that were successfully merged
+- [Echo (Golang web framework)](https://echo.labstack.com/) – Contributed to the official documentation.
+    - Submitted multiple [PRs](https://github.com/labstack/echox/issues?q=is%3Apr%20author%3Amohammadhz98) that were successfully merged.
     - Ranked among the **top 6 contributors** on the [contributors list](https://github.com/labstack/echox/graphs/contributors)
 
+
+- [GORM (Golang ORM)](https://gorm.io) – Contributed to the official documentation.
+    - Submitted [PR #844](https://github.com/go-gorm/gorm.io/pull/844), successfully merged 🎉
 ---
 
 ## 📫 Contact
