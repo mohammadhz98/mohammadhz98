@@ -64,7 +64,7 @@
 
 
 - **🐍 Python Crawlers**  
-  Built multiple crawlers using **Selenium** and **BeautifulSoup4**, focusing on data extraction and automation tasks.
+  Built multiple crawlers using Selenium and BeautifulSoup4, focusing on data extraction and automation tasks.
 ---
 
 ## 🌍 Open Source Contributions
