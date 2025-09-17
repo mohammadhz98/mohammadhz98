@@ -4,14 +4,15 @@
 
 ## 🧑‍💻 About Me
 - Backend developer with **3+ years of experience** in **Golang**
-- Experienced in designing clean, efficient APIs and building security crawlers
-- Passionate about performance, monitoring, and clean architectures
+- Focused on designing clean, efficient, and scalable APIs
+- Skilled in building cross-platform applications (Mobile & Desktop) with **Flutter**
+- **DevOps** enthusiast with hands-on experience in cloud deployments, Kubernetes, and monitoring tools
 - Always curious and eager to learn, grow, and share knowledge 🚀
 ---
 
 ## 🔧 Skills & Technologies
-- **Languages:** Golang, Python
-- **Frameworks:** Echo
+- **Languages:** Golang, Dart, Python
+- **Frameworks:** Echo, Flutter
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **DevOps / Infrastructure:** Docker, Kubernetes, MinIO
 - **CI/CD:** GitHub Actions, GitLab Runner (workflow scripting)
@@ -19,7 +20,6 @@
 - **Task Queues & Background Jobs:** Asynq
 - **Load Testing:** Locust
 - **Tools:** Postman, Git
-- **UI / Desktop:** Fyne (Golang)
 - **Web Crawling:** Goquery, Selenium, BeautifulSoup4
 ---
 
@@ -28,7 +28,7 @@
   Designed and implemented the backend for **Koomek**, a mobile app that helps users find trusted mechanics, book services, share reviews, and pay online.
   Koomek was recognized as the 4th best startup in Elecomp 2024
     - Data layer with GORM
-    - Background job processing with **Asynq** (monitored via Asynqmon)
+    - Background job processing with Asynq (monitored via Asynqmon)
     - Logging and monitoring with Jaeger, Sentry, Prometheus, Grafana
     - Load testing with Locust
     - Deployed on Kubernetes
@@ -38,9 +38,9 @@
 
 - **🛢️ Oil & Gas Industry Startup (In Progress)**  
   Currently developing a localized solution for the oil & gas industry, inspired by global products restricted due to sanctions.
-    - Backend implemented in **Golang**
-    - Includes a **Windows desktop client** built with **Fyne**
-    - CI/CD pipelines with **GitHub Actions** and **GitLab Runner** for deployment
+    - Backend implemented in Golang
+    - Includes a cross-platform client (Desktop & Mobile) built with Flutter
+    - CI/CD pipelines with GitHub Actions and GitLab Runner for deployment
     - 🚀 Still under active development as a startup project
 
 
@@ -48,14 +48,15 @@
   A startup project for the jewelry industry, identified through field research with local gold sellers.
     - Version 1 launched as a dedicated solution for a single jeweler
     - Version 2 currently being developed as a scalable product for the wider market
-    - Backend implemented with **Golang**, APIs optimized for performance and reliability
+    - Backend implemented with Golang, APIs optimized for performance and reliability
+    - Cross-platform client implemented with Flutter (Mobile & Desktop)
     - 🚀 Still in progress, owned and developed as a startup venture
 
 
 - **🕵️ Security Vulnerability Crawler**  
   Developed a crawler that monitored a public repository of newly disclosed security vulnerabilities in real time.
     - Fetched vulnerability data using Goquery
-    - Stored results in **MongoDB**
+    - Stored results in MongoDB
     - Integrated with a custom-built web application:
         - Users could register their projects
         - The system checked if new vulnerabilities affected their dependencies
